@@ -19,6 +19,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arham-ramay&show_icons=true&locale=en" alt="arham-ramay" /></p>
 
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arham-ramay&" alt="arham-ramay" /></p>
 
 
 
